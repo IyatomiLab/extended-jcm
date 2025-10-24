@@ -1,9 +1,9 @@
 [project]
-name = "data"
+name = "ejcm-mtle"
 version = "2.1.2"
-description = ""
+description = "Tools to generate, relabel, and merge sentences using MTLE"
 authors = [
-    {name = "takumi ohashi",email = "tamiii0719@gmail.com"}
+    {name = "Takumi OHASHI",email = "tamiii0719@gmail.com"}
 ]
 readme = "README.md"
 requires-python = ">=3.9"
